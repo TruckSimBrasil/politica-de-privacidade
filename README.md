@@ -12,7 +12,7 @@ Para uma melhor experiência, ao usar nosso Serviço, podemos exigir que você n
 
 O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo.
 
-Veja abaixo os serrviços
+Veja abaixo os serviços
 
 Serviços do Google Play
 
