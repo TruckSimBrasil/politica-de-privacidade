@@ -1,59 +1,60 @@
-Privacy Policy
+A Star Apps Games criaram o aplicativo Truck Sim Brasil como um aplicativo suportado por anúncios. Este SERVIÇO é fornecido pela Star Games Apps sem nenhum custo e deve ser usado como está.
 
-Star Games apps built the Truck Sim Brasil app as an Ad Supported app. This SERVICE is provided by Star Games Apps at no cost and is intended for use as is.
+Esta página é usada para informar os visitantes sobre nossas políticas de coleta, uso e divulgação de informações pessoais, caso alguém decida usar nosso serviço.
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+Se você optar por usar nosso Serviço, concorda com a coleta e o uso de informações relacionadas a esta política. As informações pessoais que coletamos são usadas para fornecer e melhorar o serviço. Não usaremos ou compartilharemos suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade.
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+Os termos usados nesta Política de Privacidade têm os mesmos significados que em nossos Termos e Condições, que estão acessíveis na MysticSoft, a menos que definido de outra forma nesta Política de Privacidade.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at MysticSoft unless otherwise defined in this Privacy Policy.
+Coleta e uso de informações
 
-Information Collection and Use
+Para uma melhor experiência, ao usar nosso Serviço, podemos exigir que você nos forneça certas informações de identificação pessoal, incluindo, entre outras, Nome, E-mail. As informações que solicitamos serão retidas por nós e usadas conforme descrito nesta política de privacidade.
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Name, Email. The information that we request will be retained by us and used as described in this privacy policy.
+O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo.
 
-The app does use third-party services that may collect information used to identify you.
+Link para a política de privacidade de provedores de serviços terceirizados usados pelo app
 
-Link to the privacy policy of third-party service providers used by the app
-
-Google Play Services
+Serviços do Google Play
 
 AdMob
 
-Log Data
+Dados de registro
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+Queremos informar que sempre que você usa nosso Serviço, em caso de erro no aplicativo, coletamos dados e informações (através de produtos de terceiros) em seu telefone chamado Log Data. Esses dados de registro podem incluir informações como endereço de protocolo de Internet ("IP") do dispositivo, nome do dispositivo, versão do sistema operacional, configuração do aplicativo ao utilizar nosso serviço, hora e data de uso do serviço e outras estatísticas .
 
 Cookies
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Cookies são arquivos com uma pequena quantidade de dados que são comumente usados como identificadores únicos anônimos. Estes são enviados para o seu navegador a partir dos sites que você visita e são armazenados na memória interna do seu dispositivo.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Este Serviço não usa esses “cookies” explicitamente. No entanto, o aplicativo pode usar código e bibliotecas de terceiros que usam “cookies” para coletar informações e melhorar seus serviços. Você tem a opção de aceitar ou recusar esses cookies e saber quando um cookie está sendo enviado ao seu dispositivo. Se você optar por recusar nossos cookies, talvez não consiga usar algumas partes deste Serviço.
 
-Service Providers
+Provedores de serviço
 
-We may employ third-party companies and individuals due to the following reasons:
+Podemos empregar empresas e indivíduos terceirizados devido aos seguintes motivos:
 
-To facilitate our Service; To provide the Service on our behalf; To perform Service-related services; or To assist us in analyzing how our Service is used. We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Para facilitar nosso Serviço; Para fornecer o Serviço em nosso nome; Para realizar serviços relacionados ao Serviço; ou Para nos ajudar a analisar como nosso Serviço é usado. Queremos informar aos usuários deste Serviço que esses terceiros têm acesso às suas Informações Pessoais. O motivo é realizar as tarefas atribuídas a eles em nosso nome. No entanto, eles são obrigados a não divulgar ou usar as informações para qualquer outra finalidade.
 
-Security
+Segurança
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+Valorizamos sua confiança em nos fornecer suas informações pessoais, portanto, estamos nos esforçando para usar meios comercialmente aceitáveis de protegê-las. Mas lembre-se que nenhum método de transmissão pela internet, ou método de armazenamento eletrônico é 100% seguro e confiável, e não podemos garantir sua segurança absoluta.
 
-Links to Other Sites
+Links para outros sites
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Este Serviço pode conter links para outros sites. Se você clicar em um link de terceiros, será direcionado para esse site. Observe que esses sites externos não são operados por nós. Portanto, recomendamos fortemente que você revise a Política de Privacidade desses sites. Não temos controle e não assumimos nenhuma responsabilidade pelo conteúdo, políticas de privacidade ou práticas de sites ou serviços de terceiros.
 
-Children’s Privacy
+Privacidade das crianças
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+Esses Serviços não se destinam a menores de 13 anos. Não coletamos intencionalmente informações de identificação pessoal de crianças menores de 13 anos.Se você é pai ou responsável e está ciente de que seu filho nos forneceu informações pessoais, entre em contato conosco para que possamos tomar as medidas necessárias.
 
-Changes to This Privacy Policy
+Mudanças nesta Política de Privacidade
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+Podemos atualizar nossa Política de Privacidade de tempos em tempos. Assim, você é aconselhado a revisar esta página periodicamente para quaisquer alterações. Iremos notificá-lo sobre quaisquer alterações publicando a nova Política de Privacidade nesta página.
 
-This policy is effective as of 2023-08-02
+Esta política é efetiva a partir de 2023-08-02
 
-Contact Us
+Contate-nos
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at trucksimbrasilsuporte@gmail.com	.
+Se você tiver alguma dúvida ou sugestão sobre nossa Política de Privacidade, não hesite em nos contatar em trucksimbrasilsuporte@gmail.com.
+Mais sobre o texto originalÉ necessário fornecer o texto original para ver mais informações sobre a tradução
+Enviar feedback
+Painéis laterais
