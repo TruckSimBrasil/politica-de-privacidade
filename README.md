@@ -12,7 +12,7 @@ Para uma melhor experiência, ao usar nosso Serviço, podemos exigir que você n
 
 O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo.
 
-Link para a política de privacidade de provedores de serviços terceirizados usados pelo app
+Veja abaixo os serrviços
 
 Serviços do Google Play
 
@@ -55,6 +55,3 @@ Esta política é efetiva a partir de 2023-08-02
 Contate-nos
 
 Se você tiver alguma dúvida ou sugestão sobre nossa Política de Privacidade, não hesite em nos contatar em trucksimbrasilsuporte@gmail.com.
-Mais sobre o texto originalÉ necessário fornecer o texto original para ver mais informações sobre a tradução
-Enviar feedback
-Painéis laterais
