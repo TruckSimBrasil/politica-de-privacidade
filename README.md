@@ -1,10 +1,10 @@
-A Star Apps Games criaram o aplicativo Truck Sim Brasil como um aplicativo suportado por anúncios. Este SERVIÇO é fornecido pela Star Games Apps sem nenhum custo e deve ser usado como está.
+A Star Apps Games criaram o aplicativo Truck Sim Brasil e Bus Sim Brasil como um aplicativo suportado por anúncios. Este SERVIÇO é fornecido pela Star Games Apps sem nenhum custo e deve ser usado como está.
 
 Esta página é usada para informar os visitantes sobre nossas políticas de coleta, uso e divulgação de informações pessoais, caso alguém decida usar nosso serviço.
 
 Se você optar por usar nosso Serviço, concorda com a coleta e o uso de informações relacionadas a esta política. As informações pessoais que coletamos são usadas para fornecer e melhorar o serviço. Não usaremos ou compartilharemos suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade.
 
-Os termos usados nesta Política de Privacidade têm os mesmos significados que em nossos Termos e Condições, que estão acessíveis na MysticSoft, a menos que definido de outra forma nesta Política de Privacidade.
+Os termos usados nesta Política de Privacidade têm os mesmos significados que em nossos Termos e Condições, que estão acessíveis na Star Game Apps, a menos que definido de outra forma nesta Política de Privacidade.
 
 Coleta e uso de informações
 
